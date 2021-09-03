@@ -20,7 +20,7 @@
 
 ## 設計書
 - ER図は[こちら](https://drive.google.com/file/d/1xVTovrABcc9pOsil-hBiWnAoR7_9Qguq/view?usp=sharing)から
-- ワイヤーフレーム  [管理者側](https://docs.google.com/presentation/d/1FUrNyL1NV27DLeBPM8NbOGdDEcfROxmkOqJdfqIVmrc/edit?usp=sharing) , [会員側](https://docs.google.com/presentation/d/1-ptWxJP0sBDaIiUpnaUo8UtBOs7B7V6GRkaJza20ysA/edit?usp=sharing)
+- ワイヤーフレーム  [管理者側](https://docs.google.com/presentation/d/1FUrNyL1NV27DLeBPM8NbOGdDEcfROxmkOqJdfqIVmrc/edit?usp=sharing) , [会員側](https://docs.google.com/presentation/d/1baN14b-Q9_q1qpiRxaisbUt7qMz_0C-LhZ_iPb2V6Gw/edit?usp=sharing)
 - UI Flows 
 - テーブル定義書
 - アプリケーション詳細設計
