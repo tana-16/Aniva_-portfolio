@@ -23,7 +23,7 @@
 - ワイヤーフレーム  [管理者側](https://docs.google.com/presentation/d/1FUrNyL1NV27DLeBPM8NbOGdDEcfROxmkOqJdfqIVmrc/edit?usp=sharing) , [会員側](https://docs.google.com/presentation/d/1baN14b-Q9_q1qpiRxaisbUt7qMz_0C-LhZ_iPb2V6Gw/edit?usp=sharing)
 - UI Flows  [管理者](https://drive.google.com/file/d/1OuvfopPs821M-1VaDQQ-zH3oQT-VUsI3/view?usp=sharing) , [会員側](https://drive.google.com/file/d/1D1Y1PBTuxxS3WamTCkGuyobmYBQEED4L/view?usp=sharing)
 - テーブル定義書は[こちら](https://docs.google.com/spreadsheets/d/1tdZYevNa_DaK5tQVS_oV6mSCDW1FU3SB0GOWgjPwHlo/edit?usp=sharing)から
-- アプリケーション詳細設計
+- アプリケーション詳細設計は[こちら](https://docs.google.com/spreadsheets/d/1FlktetjDBAqC-4jQ8o9T7qVm61HhMDdxY0SpK8PJ5uw/edit?usp=sharing)から
 
 ## チャレンジ要素一覧
 機能一覧は[こちら](https://docs.google.com/spreadsheets/d/1URawjq4uJOdZMKyfj4OGB8aMWcvH1_pHG9Xr-HkQW4s/edit?usp=sharing)から
